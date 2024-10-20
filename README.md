@@ -1,4 +1,4 @@
-# EXP NO: 3 - IMAGE TRANSFORMATIONS
+# EXP NO: 4 - IMAGE TRANSFORMATIONS
 
 ### Name: Anbuselvan.S
 ### Register No: 212223240008
